@@ -166,4 +166,3 @@ Aspiring Data Analyst | Python • SQL • Power BI
 📧 Email: itsdsr98@gmail.com
 🔗 LinkedIn: www.linkedin.com/in/diksha-singh-521270271
 
- **yes** and which one you want next.
